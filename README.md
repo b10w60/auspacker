@@ -17,5 +17,3 @@ Erkennt Dateiformat und erstellt Verzeichnis mit gleichem Namen (ohne Endung) im
 
 ##### Todo
 - [ ] Quoting verfeinern um exotische Dateinamen korrekt zu erfassen
-
-### Falls weitere Dateiformate erwünscht sind, Pull request erstellen
